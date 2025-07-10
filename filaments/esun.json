@@ -12,8 +12,7 @@
                 }
             ],
             "diameters": [
-                1.75,
-                2.85
+                1.75
             ],
             "extruder_temp": 220,
             "bed_temp": 60,
@@ -216,8 +215,7 @@
                 }
             ],
             "diameters": [
-                1.75,
-                2.85
+                1.75
             ],
             "extruder_temp": 220,
             "bed_temp": 60,
@@ -428,130 +426,6 @@
                 {
                     "name": "Wood",
                     "hex": "ebcfa7"
-                }
-            ]
-        },
-        {
-            "name": "ePLA+HS {color_name}",
-            "material": "PLA+",
-            "density": 1.24,
-            "weights": [
-                {
-                    "weight": 1000,
-                    "spool_weight": 170,
-                    "spool_type": "cardboard"
-                }
-            ],
-            "diameters": [
-                1.75,
-                2.85
-            ],
-            "extruder_temp": 220,
-            "bed_temp": 60,
-            "colors": [
-                {
-                    "name": "Beige",
-                    "hex": "e8b99f"
-                },
-                {
-                    "name": "Black",
-                    "hex": "000000"
-                },
-                {
-                    "name": "Blue",
-                    "hex": "12296f"
-                },
-                {
-                    "name": "Bone White",
-                    "hex": "a88567"
-                },
-                {
-                    "name": "Brown",
-                    "hex": "6a4a3d"
-                },
-                {
-                    "name": "Cold White",
-                    "hex": "efeef3"
-                },
-                {
-                    "name": "Dark Blue",
-                    "hex": "1d2333"
-                },
-                {
-                    "name": "Fire Engine Red",
-                    "hex": "a40f15"
-                },
-                {
-                    "name": "Gold",
-                    "hex": "e39d3e"
-                },
-                {
-                    "name": "Green",
-                    "hex": "4b585e"
-                },
-                {
-                    "name": "Grey",
-                    "hex": "a6a9ae"
-                },
-                {
-                    "name": "Light Blue",
-                    "hex": "29b9de"
-                },
-                {
-                    "name": "Light Brown",
-                    "hex": "b47f5f"
-                },
-                {
-                    "name": "Magenta",
-                    "hex": "ed5973"
-                },
-                {
-                    "name": "Olive Green",
-                    "hex": "6d6b5e"
-                },
-                {
-                    "name": "Orange",
-                    "hex": "ff5216"
-                },
-                {
-                    "name": "Peak Green",
-                    "hex": "7ac163"
-                },
-                {
-                    "name": "Pine Green",
-                    "hex": "43634e"
-                },
-                {
-                    "name": "Pink",
-                    "hex": "ff7083"
-                },
-                {
-                    "name": "Purple",
-                    "hex": "3b1d4f"
-                },
-                {
-                    "name": "Red",
-                    "hex": "fe4a3b"
-                },
-                {
-                    "name": "Silver",
-                    "hex": "757376"
-                },
-                {
-                    "name": "Space Blue",
-                    "hex": "5cb5df"
-                },
-                {
-                    "name": "Very Peri",
-                    "hex": "867ec9"
-                },
-                {
-                    "name": "White",
-                    "hex": "ffffff"
-                },
-                {
-                    "name": "Yellow",
-                    "hex": "fad900"
                 }
             ]
         },
@@ -962,8 +836,7 @@
                 }
             ],
             "diameters": [
-                1.75,
-                2.85
+                1.75
             ],
             "extruder_temp": 240,
             "bed_temp": 80,

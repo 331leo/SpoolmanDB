@@ -98,7 +98,7 @@
                     "hex": "C5E86C"
                 },
                 {
-                    "name": "Bluish Green",
+                    "name": "Bluesh Green",
                     "hex": "04AF76"
                 },
                 {
@@ -269,7 +269,7 @@
                     "hex": "72071C"
                 },
                 {
-                    "name": "Bluesh Gray",
+                    "name": "Bluish Gray",
                     "hex": "658A95"
                 },
                 {
@@ -281,187 +281,7 @@
                     "hex": "B4D3B4"
                 },
                 {
-                    "name": "OffWhite",
-                    "hex": "D7CFC5"
-                },
-                {
-                    "name": "Matte Turquoise",
-                    "hex": "66D3CC"
-                },
-                {
-                    "name": "Matte Yellow",
-                    "hex": "E9A833"
-                },
-                {
-                    "name": "Light Matte Terracotta",
-                    "hex": "D8A7A2"
-                },
-                {
-                    "name": "Peach",
-                    "hex": "FDD4DA"
-                },
-                {
-                    "name": "Coral Pink",
-                    "hex": "ECB7CD"
-                },
-                {
-                    "name": "Slender Pink",
-                    "hex": "FBE1E9"
-                },
-                {
-                    "name": "Light Yellow",
-                    "hex": "FFEC9F"
-                },
-                {
-                    "name": "Hot Yellow",
-                    "hex": "F4F47F"
-                },
-                {
-                    "name": "Creamy Yellow",
-                    "hex": "EEF2CB"
-                },
-                {
-                    "name": "Milk Green",
-                    "hex": "DFEDCA"
-                },
-                {
-                    "name": "Slender Green",
-                    "hex": "D0EAE2"
-                },
-                {
-                    "name": "Vivid Cyan",
-                    "hex": "B0EBE9"
-                },
-                {
-                    "name": "Sunny Blue",
-                    "hex": "BFD3F6"
-                },
-                {
-                    "name": "Ice Blue",
-                    "hex": "92B2E3"
-                },
-                {
-                    "name": "Aqua Blue",
-                    "hex": "D1D5E3"
-                },
-                {
-                    "name": "Lavender",
-                    "hex": "DDD8E9"
-                },
-                {
-                    "name": "Slender Purple",
-                    "hex": "D9CDE9"
-                },
-                {
-                    "name": "Rattan Purple",
-                    "hex": "C6B8E4"
-                },
-                {
-                    "name": "Light Beige",
-                    "hex": "CFC7C0"
-                },
-                {
-                    "name": "SK Skin",
-                    "hex": "DBBCA9"
-                },
-                {
-                    "name": "Nightstone Black",
-                    "hex": "232323"
-                }
-            ]
-        },
-        {
-            "name": "K5M {color_name}",
-            "material": "PLA",
-            "density": 1.31,
-            "weights": [
-                {
-                    "weight": 1000,
-                    "spool_weight": 205,
-                    "spool_type": "cardboard"
-                }
-            ],
-            "diameters": [
-                1.75
-            ],
-            "extruder_temp": 220,
-            "bed_temp": 60,
-            "finish": "matte",
-            "colors": [
-                {
-                    "name": "Matte White",
-                    "hex": "FFFFFF"
-                },
-                {
-                    "name": "Matte Black",
-                    "hex": "212322"
-                },
-                {
-                    "name": "Ash Gray",
-                    "hex": "313335"
-                },
-                {
-                    "name": "Matte Warm Gray",
-                    "hex": "B7ADA5"
-                },
-                {
-                    "name": "Matte Tech Gray",
-                    "hex": "C1C1C1"
-                },
-                {
-                    "name": "Matte Mustard Yellow",
-                    "hex": "D19C46"
-                },
-                {
-                    "name": "Matte Malt Clay",
-                    "hex": "876E59"
-                },
-                {
-                    "name": "Matte Kraft",
-                    "hex": "C6AA76"
-                },
-                {
-                    "name": "Matte Terracotta",
-                    "hex": "B47D75"
-                },
-                {
-                    "name": "Matte Navy",
-                    "hex": "353E47"
-                },
-                {
-                    "name": "Matte Olive Green",
-                    "hex": "555B43"
-                },
-                {
-                    "name": "Orange Red",
-                    "hex": "F4764E"
-                },
-                {
-                    "name": "Mustard Green",
-                    "hex": "998E3C"
-                },
-                {
-                    "name": "Ash Purple",
-                    "hex": "8F6A6F"
-                },
-                {
-                    "name": "Chelsea Red",
-                    "hex": "72071C"
-                },
-                {
-                    "name": "Bluesh Gray",
-                    "hex": "658A95"
-                },
-                {
-                    "name": "Pastel Orange",
-                    "hex": "FA9543"
-                },
-                {
-                    "name": "Pastel Green",
-                    "hex": "B4D3B4"
-                },
-                {
-                    "name": "OffWhite",
+                    "name": "Off White",
                     "hex": "D7CFC5"
                 },
                 {
@@ -769,7 +589,7 @@
                 },
                 {
                     "name": "Natural",
-                    "hex": "FFFef7"
+                    "hex": "FFFEF7"
                 },
                 {
                     "name": "Skin",
@@ -804,7 +624,7 @@
                     "hex": "CCA140"
                 },
                 {
-                    "name": "Bronse",
+                    "name": "Bronze",
                     "hex": "715C2A"
                 },
                 {

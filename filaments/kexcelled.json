@@ -937,43 +937,43 @@
             "colors": [
                 {
                     "name": "Space Gray",
-                    "hex": "#4A4A4A"
+                    "hex": "4A4A4A"
                 },
                 {
                     "name": "Silver",
-                    "hex": "#BFBFBF"
+                    "hex": "BFBFBF"
                 },
                 {
                     "name": "Coffee Gold",
-                    "hex": "#A67C52"
+                    "hex": "A67C52"
                 },
                 {
                     "name": "Midnight Green",
-                    "hex": "#008080"
+                    "hex": "008080"
                 },
                 {
                     "name": "Sunglow Orange",
-                    "hex": "#FF6600"
+                    "hex": "FF6600"
                 },
                 {
                     "name": "Champaign Gold",
-                    "hex": "#D4C19C"
+                    "hex": "D4C19C"
                 },
                 {
                     "name": "Rose Gold",
-                    "hex": "#B76E79"
+                    "hex": "B76E79"
                 },
                 {
                     "name": "Light Gray Green",
-                    "hex": "#88B4A1"
+                    "hex": "88B4A1"
                 },
                 {
                     "name": "Metal Blue",
-                    "hex": "#4B7BAF"
+                    "hex": "4B7BAF"
                 },
                 {
                     "name": "Dark Gray Green",
-                    "hex": "#5A6D71"
+                    "hex": "5A6D71"
                 }
             ]
         },

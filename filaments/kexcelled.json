@@ -995,95 +995,95 @@
             "colors": [
                 {
                     "name": "White",
-                    "hex": "#FFFFF8"
+                    "hex": "FFFFF8"
                 },
                 {
                     "name": "Skin",
-                    "hex": "#FCD9C3"
+                    "hex": "FCD9C3"
                 },
                 {
                     "name": "Yellow",
-                    "hex": "#FFE861"
+                    "hex": "FFE861"
                 },
                 {
                     "name": "Gold",
-                    "hex": "#FCC556"
+                    "hex": "FCC556"
                 },
                 {
                     "name": "Orange",
-                    "hex": "#FF8F1C"
+                    "hex": "FF8F1C"
                 },
                 {
                     "name": "Glazed Gold",
-                    "hex": "#C15D2B"
+                    "hex": "C15D2B"
                 },
                 {
                     "name": "Copper",
-                    "hex": "#D1A4A3"
+                    "hex": "D1A4A3"
                 },
                 {
                     "name": "Bronze",
-                    "hex": "#BFAD9B"
+                    "hex": "BFAD9B"
                 },
                 {
                     "name": "Brown",
-                    "hex": "#8E5930"
+                    "hex": "8E5930"
                 },
                 {
                     "name": "Rose Red",
-                    "hex": "#C48490"
+                    "hex": "C48490"
                 },
                 {
                     "name": "Red",
-                    "hex": "#C14040"
+                    "hex": "C14040"
                 },
                 {
                     "name": "Pink",
-                    "hex": "#FFBEBB"
+                    "hex": "FFBEBB"
                 },
                 {
                     "name": "Purple",
-                    "hex": "#C352CC"
+                    "hex": "C352CC"
                 },
                 {
                     "name": "Blue Purple",
-                    "hex": "#9448C1"
+                    "hex": "9448C1"
                 },
                 {
                     "name": "Green",
-                    "hex": "#BDF4D8"
+                    "hex": "BDF4D8"
                 },
                 {
                     "name": "Neon Green",
-                    "hex": "#8BF471"
+                    "hex": "8BF471"
                 },
                 {
                     "name": "Deep Green",
-                    "hex": "#0E4F44"
+                    "hex": "0E4F44"
                 },
                 {
                     "name": "Blue",
-                    "hex": "#B4E7F9"
+                    "hex": "B4E7F9"
                 },
                 {
                     "name": "Sky Blue",
-                    "hex": "#84E8EF"
+                    "hex": "84E8EF"
                 },
                 {
                     "name": "Deep Blue",
-                    "hex": "#005EA5"
+                    "hex": "005EA5"
                 },
                 {
                     "name": "Silver",
-                    "hex": "#B7B7B7"
+                    "hex": "B7B7B7"
                 },
                 {
                     "name": "Gray",
-                    "hex": "#909193"
+                    "hex": "909193"
                 },
                 {
                     "name": "Black",
-                    "hex": "#333333"
+                    "hex": "333333"
                 }
             ]
         },
